@@ -1,3 +1,4 @@
 {
-  "jwtPrivateKey" : "mh01_14_jwtPrivateKey"
+  "jwtPrivateKey" : "mh01_14_jwtPrivateKey",
+  "db" : "mh01-14"
 }

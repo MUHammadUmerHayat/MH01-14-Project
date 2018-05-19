@@ -4,7 +4,11 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "jest --watchAll --verbose"
+  },
+  "engines": {
+    "node": "9.11.1"
   },
   "keywords": [],
   "author": "Chi Lin <chilin89117@gmail.com>",
